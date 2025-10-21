@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				550,
+				359
+			],
+			"anim": "singLEFT",
+			"fps": 8,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				553,
+				359
+			],
+			"anim": "singRIGHT",
+			"fps": 8,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				550,
+				360
+			],
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				554,
+				359
+			],
+			"anim": "singUP",
+			"fps": 8,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				550,
+				359
+			],
+			"indices": [
+				2,
+				2,
+				2,
+				3,
+				3,
+				4,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NaufalPersona",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Naufal",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		237,
+		237
+	],
+	"camera_position": [
+		-180,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

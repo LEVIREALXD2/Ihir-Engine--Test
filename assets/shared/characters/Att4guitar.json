@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "Att4guitar idle"
+		},
+		{
+			"offsets": [
+				108,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Att4guitar left"
+		},
+		{
+			"offsets": [
+				44,
+				-70
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Att4guitar down"
+		},
+		{
+			"offsets": [
+				5,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Att4guitar up"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Att4guitar Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Att4guitar",
+	"position": [
+		-450,
+		-20
+	],
+	"healthicon": "att4",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		175,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

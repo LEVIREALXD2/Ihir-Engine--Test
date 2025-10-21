@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-8, 34],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [15, 28],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [10, 6],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [3, 26],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [74, 33],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/weezer",
+	"position": [-90, 200],
+	"healthicon": "weezer",
+	"flip_x": false,
+	"healthbar_colors": [170, 170, 170],
+	"camera_position": [250, -110],
+	"sing_duration": 6.1,
+	"scale": 1.3,
+	"_editor_isPlayer": true
+}

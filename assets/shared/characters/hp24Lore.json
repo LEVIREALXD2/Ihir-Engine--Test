@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hpIdle"
+		},
+		{
+			"offsets": [
+				280,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kiriHp"
+		},
+		{
+			"offsets": [
+				180,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kananHp"
+		},
+		{
+			"offsets": [
+				70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bawahHp"
+		},
+		{
+			"offsets": [
+				-86,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "atasHp"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/HpNopal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hp",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		57,
+		67
+	],
+	"camera_position": [
+		60,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

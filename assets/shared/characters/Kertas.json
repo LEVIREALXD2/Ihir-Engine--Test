@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				340,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				443,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				404,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				358,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				344,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ap"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nopal-yandikertas",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nopal-yandikertas",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		193,
+		189
+	],
+	"camera_position": [
+		-160,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				94
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				93,
+				235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idleFz"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				235
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftFz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				235
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downFz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				235
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upFz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				235
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightFz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				235
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downmissFz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				235
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightmissFz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				235
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upmissFz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				235
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftmissFz",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FzVC",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hafiz",
+	"flip_x": true,
+	"healthbar_colors": [
+		59,
+		75,
+		162
+	],
+	"camera_position": [
+		0,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

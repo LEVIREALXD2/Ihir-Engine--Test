@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "Naufalsimilar idle"
+		},
+		{
+			"offsets": [
+				115,
+				14
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Naufalsimilar left"
+		},
+		{
+			"offsets": [
+				5,
+				-25
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Naufalsimilar down"
+		},
+		{
+			"offsets": [
+				31,
+				-13
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Naufalsimilar up"
+		},
+		{
+			"offsets": [
+				-77,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Naufalsimilar right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Naufalsimilar",
+	"position": [
+		-250,
+		0
+	],
+	"healthicon": "naufal",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		170,
+		170
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

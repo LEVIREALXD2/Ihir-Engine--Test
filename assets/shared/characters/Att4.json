@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "Att4similar idle"
+		},
+		{
+			"offsets": [
+				115,
+				14
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Att4similar left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Att4similar up"
+		},
+		{
+			"offsets": [
+				-105,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Att4similar right"
+		},
+		{
+			"offsets": [
+				-213,
+				-66
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Att4similar down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Att4similar",
+	"position": [
+		-450,
+		-20
+	],
+	"healthicon": "att4",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		175,
+		255
+	],
+	"camera_position": [
+		-50,
+		30
+	],
+	"sing_duration": 3,
+	"scale": 1
+}
