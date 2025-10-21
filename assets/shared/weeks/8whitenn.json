@@ -1,0 +1,41 @@
+{
+	"storyName": "golden",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Golden",
+			"whitenguy-icon",
+			[
+				175,
+				175,
+				235
+			]
+		],
+		[
+			"Lore",
+			"naufal",
+			[
+				175,
+				175,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Whitenn",
+	"hiddenUntilUnlocked": false
+}

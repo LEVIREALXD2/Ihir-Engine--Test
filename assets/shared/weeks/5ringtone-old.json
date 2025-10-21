@@ -1,0 +1,32 @@
+{
+	"storyName": "ringtone",
+	"difficulties": "old",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Ringtone-old",
+			"hp",
+			[
+				35,
+				75,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "ringtone-old",
+	"hiddenUntilUnlocked": false
+}

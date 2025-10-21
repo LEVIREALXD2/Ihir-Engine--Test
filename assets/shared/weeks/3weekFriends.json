@@ -1,0 +1,50 @@
+{
+	"storyName": "Ihir Dev!!",
+	"difficulties": "Hard, Ihir",
+	"hideFreeplay": false,
+	"weekBackground": "awikwok",
+	"weekBefore": "weekCall",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Protocol",
+			"didilpro",
+			[
+				115,
+				155,
+				95
+			]
+		],
+		[
+			"Similarities",
+			"att4",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Personal",
+			"hafiz",
+			[
+				95,
+				135,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "friends"
+}

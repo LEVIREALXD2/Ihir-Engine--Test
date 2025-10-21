@@ -1,0 +1,50 @@
+{
+	"storyName": "Bocah Ihir!!!",
+	"difficulties": "Hard, Ihir",
+	"hideFreeplay": false,
+	"weekBackground": "ihir",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Author",
+			"naufal",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"Normies",
+			"naufal",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"Ihir",
+			"naufal",
+			[
+				215,
+				215,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ihir"
+}

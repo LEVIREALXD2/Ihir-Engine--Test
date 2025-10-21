@@ -1,0 +1,36 @@
+{
+	"storyName": "ft. HfzzAja_",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "taman",
+	"weekBefore": "weekFriends",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"On Time",
+			"hfz",
+			[
+				166,
+				153,
+				253
+			]
+		],
+		[
+			"Chill Outside",
+			"hfz",
+			[
+				166,
+				153,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week H"
+}

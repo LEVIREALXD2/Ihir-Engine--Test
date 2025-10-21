@@ -1,0 +1,50 @@
+{
+	"storyName": "Telponan awikwok",
+	"difficulties": "Hard, Ihir",
+	"hideFreeplay": false,
+	"weekBackground": "telpon",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekN",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ringtone",
+			"hp",
+			[
+				95,
+				135,
+				235
+			]
+		],
+		[
+			"Call",
+			"hafiz",
+			[
+				95,
+				135,
+				235
+			]
+		],
+		[
+			"Terserah",
+			"hafiz",
+			[
+				95,
+				135,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "call",
+	"hiddenUntilUnlocked": false
+}
